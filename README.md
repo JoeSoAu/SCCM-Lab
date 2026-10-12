@@ -29,15 +29,15 @@ The Hyper-V NAT subnet is separate from my home network (`192.168.1.0/24`). The 
 
 ## How the SCCM setup works
 
-Microsoft Configuration Manager (SCCM) is Microsoft's software for managing company computers from one place. It includes software on the server, a client installed on each managed PC, a database, and a console for IT administrators.
+SCCM is Microsoft's software for managing company computers from one place. It includes software on the server, a client installed on each managed PC, a database, and a console for IT administrators.
 
 In this lab, I set up **one Primary Site**, called `S01`. The site is the part of SCCM that manages the client computers. It uses a **Site Server** to run its background services and a **SQL Server database** to hold device records, settings and deployment results.
 
 For this lab, the Site Server, SQL Server, Management Point and Distribution Point all run on `WIN2022-SCCM`. They do different jobs, even though they are on the same VM. Active Directory and DNS run separately on `WIN-F61BCQQ4BNA`.
 
-### The main parts
+### Concept Clarification
 
-| Part | What it does |
+|  | What it does |
 | --- | --- |
 | **Configuration Manager** | The whole software system used to manage the PCs. |
 | **Primary Site (`S01`)** | The main management unit for the PCs in this lab. |
@@ -67,7 +67,7 @@ This is why SCCM needs several parts: the site manages the job, the MP handles c
 
 These three objects serve different purposes:
 
-| Object | What it actually is | What it is used for |
+|  | What it actually is | What it is used for |
 | --- | --- | --- |
 | **Boundary** | A definition of a network location, such as an IP range. It is **not** a list of PCs. | Identifies which network a client is using. |
 | **Boundary Group** | One or more boundaries linked to SCCM site systems. | Helps clients find suitable resources, especially DPs. It can also be used for automatic site assignment. |

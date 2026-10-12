@@ -158,3 +158,111 @@ DwIDAQAB
 ------------------
 [10/12/2026, 11:09:01 AM] [Log] [IPC] .handle("menu.updateCustomZoom") result: 
 ------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .invoke("setting.removeRecentDocument") args: ["D:\\Git\\labs\\SCCM\\.git\\objects\\a0\\tmp_obj_zuizTP"]
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .handle("setting.removeRecentDocument") result: 
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .invoke("setting.removeRecentDocument") args: ["D:\\Git\\labs\\SCCM\\.git\\objects\\a0\\tmp_obj_zuizTP"]
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .handle("setting.removeRecentDocument") result: 
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .invoke("setting.removeRecentDocument") args: ["D:\\Git\\labs\\SCCM\\.git\\objects\\a0\\tmp_obj_zuizTP"]
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .handle("setting.removeRecentDocument") result: 
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .invoke("setting.removeRecentDocument") args: ["D:\\Git\\labs\\SCCM\\.git\\objects\\a0\\tmp_obj_zuizTP"]
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .handle("setting.removeRecentDocument") result: 
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .invoke("setting.removeRecentDocument") args: ["D:\\Git\\labs\\SCCM\\.git\\objects\\a0\\tmp_obj_zuizTP"]
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .handle("setting.removeRecentDocument") result: 
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .invoke("setting.removeRecentDocument") args: ["D:\\Git\\labs\\SCCM\\.git\\objects\\a0\\tmp_obj_zuizTP"]
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .handle("setting.removeRecentDocument") result: 
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .invoke("setting.removeRecentDocument") args: ["D:\\Git\\labs\\SCCM\\.git\\objects\\a0\\tmp_obj_zuizTP"]
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .handle("setting.removeRecentDocument") result: 
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .invoke("setting.removeRecentDocument") args: ["D:\\Git\\labs\\SCCM\\.git\\objects\\a0\\tmp_obj_zuizTP"]
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .handle("setting.removeRecentDocument") result: 
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .invoke("setting.removeRecentDocument") args: ["D:\\Git\\labs\\SCCM\\.git\\objects\\a0\\tmp_obj_zuizTP"]
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .handle("setting.removeRecentDocument") result: 
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .invoke("setting.removeRecentDocument") args: ["D:\\Git\\labs\\SCCM\\.git\\objects\\a0\\tmp_obj_zuizTP"]
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .handle("setting.removeRecentDocument") result: 
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .invoke("setting.removeRecentDocument") args: ["D:\\Git\\labs\\SCCM\\.git\\objects\\a0\\tmp_obj_zuizTP"]
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .handle("setting.removeRecentDocument") result: 
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .invoke("setting.removeRecentDocument") args: ["D:\\Git\\labs\\SCCM\\.git\\objects\\a0\\tmp_obj_zuizTP"]
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .handle("setting.removeRecentDocument") result: 
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .invoke("setting.removeRecentDocument") args: ["D:\\Git\\labs\\SCCM\\.git\\objects\\a0\\tmp_obj_zuizTP"]
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .handle("setting.removeRecentDocument") result: 
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .invoke("setting.removeRecentDocument") args: ["D:\\Git\\labs\\SCCM\\.git\\objects\\a0\\tmp_obj_zuizTP"]
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .handle("setting.removeRecentDocument") result: 
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .invoke("setting.removeRecentDocument") args: ["D:\\Git\\labs\\SCCM\\.git\\objects\\a0\\tmp_obj_zuizTP"]
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .handle("setting.removeRecentDocument") result: 
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .invoke("setting.removeRecentDocument") args: ["D:\\Git\\labs\\SCCM\\.git\\objects\\a0\\tmp_obj_zuizTP"]
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .handle("setting.removeRecentDocument") result: 
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .invoke("setting.removeRecentDocument") args: ["D:\\Git\\labs\\SCCM\\.git\\objects\\a0\\tmp_obj_zuizTP"]
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .handle("setting.removeRecentDocument") result: 
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .invoke("setting.removeRecentDocument") args: ["D:\\Git\\labs\\SCCM\\.git\\objects\\a0\\tmp_obj_zuizTP"]
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .handle("setting.removeRecentDocument") result: 
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .invoke("setting.removeRecentDocument") args: ["D:\\Git\\labs\\SCCM\\.git\\objects\\a0\\tmp_obj_zuizTP"]
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .handle("setting.removeRecentDocument") result: 
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .invoke("setting.removeRecentDocument") args: ["D:\\Git\\labs\\SCCM\\.git\\objects\\a0\\tmp_obj_zuizTP"]
+------------------
+[10/12/2026, 11:11:28 AM] [Log] [IPC] .handle("setting.removeRecentDocument") result: 
+------------------
+[10/12/2026, 11:12:00 AM] [Log] [IPC] .invoke("document.noOtherWindow") args: []
+------------------
+[10/12/2026, 11:12:00 AM] [Log] [IPC] .handle("document.noOtherWindow") result: true
+------------------
+[10/12/2026, 11:12:02 AM] [Log] [IPC] .invoke("app.sendEvent") args: ["willSave","D:\\Git\\labs\\SCCM\\README.md"]
+------------------
+[10/12/2026, 11:12:02 AM] [Log] [IPC] .handle("app.sendEvent") result: 
+------------------
+[10/12/2026, 11:12:03 AM] [Log] [IPC] .invoke("document.setLastSync") args: [1791765723058.6619]
+------------------
+[10/12/2026, 11:12:03 AM] [Log] [IPC] .handle("document.setLastSync") result: 
+------------------
+[10/12/2026, 11:12:03 AM] [Log] [IPC] .invoke("window.setTitle") args: [null,true]
+------------------
+[10/12/2026, 11:12:03 AM] [Log] [IPC] .handle("window.setTitle") result: 
+------------------
+[10/12/2026, 11:12:03 AM] [Log] [IPC] .invoke("window.setTitle") args: [null,false]
+------------------
+[10/12/2026, 11:12:03 AM] [Log] [IPC] .handle("window.setTitle") result: 
+------------------
+[10/12/2026, 11:12:03 AM] [Log] [IPC] .invoke("app.sendEvent") args: ["didSave",{"path":"D:\\Git\\labs\\SCCM\\README.md","summary":"# Microsoft Configuration Manager (SCCM) Lab\n\nThis project covers the setup and configuration of Microsoft Configuration Manager (SCCM) in a Hyper-V environment, integrated with Active Directory, SQL ","lastModifiedDate":1791765723058.6619}]
+------------------
+[10/12/2026, 11:12:03 AM] [Log] [IPC] .handle("app.sendEvent") result: 
+------------------
+[10/12/2026, 11:12:03 AM] [Log] [IPC] .invoke("app.onCloseWin") args: [null]
+------------------
+[10/12/2026, 11:12:03 AM] [Log] [IPC] .handle("app.onCloseWin") result: 
+------------------
