@@ -1,0 +1,160 @@
+[10/12/2026, 11:06:54 AM] [Log] -------------------------------------------
+------------------
+[10/12/2026, 11:06:54 AM] [Log] crypto.publicDecrypt called
+------------------
+[10/12/2026, 11:06:54 AM] [Log] Key: -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7nVoGCHqIMJyqgALEUrc
+5JJhap0+HtJqzPE04pz4y+nrOmY7/12f3HvZyyoRsxKdXTZbO0wEHFIh0cRqsuaJ
+PyaOOPbA0BsalofIAY3mRhQQ3vSf+rn3g+w0S+udWmKV9DnmJlpWqizFajU4T/E4
+5ZgMNcXt3E1ips32rdbTR0Nnen9PVITvrbJ3l6CI2BFBImZQZ2P8N+LsqfJsqyVV
+wDkt3mHAVxV7FZbfYWG+8FDSuKQHaCmvgAtChx9hwl3J6RekkqDVa6GIV13D23LS
+qdk0Jb521wFJi/V6QAK6SLBiby5gYN6zQQ5RQpjXtR53MwzTdiAzGEuKdOtrY2Me
+DwIDAQAB
+-----END PUBLIC KEY-----
+
+
+------------------
+[10/12/2026, 11:06:54 AM] [Log] Buffer (Hex): 75736572406578616d706c652e636f6d
+------------------
+[10/12/2026, 11:06:54 AM] [Log] BrowserWindow created
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .invoke("document.loadData") args: []
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .handle("document.loadData") result: "{\"snap\":null,\"filePath\":\"D:\\\\Git\\\\labs\\\\SCCM\\\\README.md\",\"backups\":null,\"shouldReadFromDisk\":false,\"windowCounts\":1}"
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .invoke("window.updateMenuForIsAlwaysOnTop") args: []
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .handle("window.updateMenuForIsAlwaysOnTop") result: 
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .invoke("menu.updateCustomZoom") args: []
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .handle("menu.updateCustomZoom") result: 
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .invoke("setting.getRecentFiles") args: []
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .handle("setting.getRecentFiles") result: {"files":[{"name":"README.md","path":"D:\\Git\\labs\\SCCM\\README.md","date":1791765414151},{"name":"README.md","path":"C:\\Users\\joest\\Desktop\\SCCM_Lab_GitHub_Troubleshooting_Updated\\README.md","date":1791728381102},{"name":"README.md","path":"C:\\Users\\joest\\Desktop\\README.md","date":1791710342592},{"name":"README.md","path":"C:\\Users\\joest\\Desktop\\Intune_Autopilot_Lab_English\\Intune_Autopilot_Lab\\README.md","date":1790737365959},{"name":"02-Autopilot-Lab.md","path":"D:\\Git\\labs\\Autopilot\\02-Autopilot-Lab.md","date":1790737123046},{"name":"JoeSO_Content.md","path":"C:\\Users\\joest\\Desktop\\JoeSO_Content.md","date":1785645831361},{"name":"01-VLAN-relevant-Knowledge.md","path":"D:\\Git\\labs\\VLAN\\docs\\01-VLAN-relevant-Knowledge.md","date":1785415058377},{"name":"02-VLAN-relevant-Knowledge.md","path":"D:\\Git\\labs\\VLAN\\docs\\02-VLAN-relevant-Knowledge.md","date":1785323910133},{"name":"README.md","path":"D:\\Git\\labs\\Azure-Hybrid-Cloud\\README.md","date":1783706047380},{"name":"06-Troubleshooting.md","path":"D:\\Git\\labs\\Azure-Hybrid-Cloud\\docs\\06-Troubleshooting.md","date":1783704200684},{"name":"05-Conditional-Access-and-MFA.md","path":"D:\\Git\\labs\\Azure-Hybrid-Cloud\\docs\\05-Conditional-Access-and-MFA.md","date":1783695946573},{"name":"readme.md","path":"D:\\Git\\labs\\Azure-Network\\readme.md","date":1783537786796},{"name":"07-Troubleshooting.md","path":"D:\\Git\\labs\\Azure-Network\\docs\\07-Troubleshooting.md","date":1783533706095},{"name":"Bastion.md","path":"D:\\Git\\labs\\Azure-Network\\docs\\Bastion.md","date":1783341324751},{"name":"05-Remote-User-Connectivity-Point-to-Site-VPN.md","path":"D:\\Git\\labs\\Azure-Network\\docs\\05-Remote-User-Connectivity-Point-to-Site-VPN.md","date":1783341317169},{"name":"01-Overview-and-Desgin.md","path":"D:\\Git\\labs\\Azure-Network\\docs\\01-Overview-and-Desgin.md","date":1783267965033},{"name":"03-Centralized-network-security-firewall.md","path":"D:\\Git\\labs\\Azure-Network\\docs\\03-Centralized-network-security-firewall.md","date":1783178750312},{"name":"04-hybrid-connectivity-site-to-site-vpn.md","path":"D:\\Git\\labs\\Azure-Network\\docs\\04-hybrid-connectivity-site-to-site-vpn.md","date":1783178324219},{"name":"02-Hub-Spoke-Virutal Network.md","path":"D:\\Git\\labs\\Azure-Network\\docs\\02-Hub-Spoke-Virutal Network.md","date":1783177819040}],"folders":[{"name":"docs","path":"D:\\Git\\labs\\Azure-Network\\docs","date":"2026-07-03T05:41:38.206Z"}]}
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .invoke("window.updateMenuForIsAlwaysOnTop") args: []
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .handle("window.updateMenuForIsAlwaysOnTop") result: 
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .invoke("menu.updateCustomZoom") args: []
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .handle("menu.updateCustomZoom") result: 
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .invoke("window.setTitle") args: [null,false]
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .handle("window.setTitle") result: 
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .invoke("window.updateMenuForIsAlwaysOnTop") args: []
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .handle("window.updateMenuForIsAlwaysOnTop") result: 
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .invoke("menu.updateCustomZoom") args: []
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .handle("menu.updateCustomZoom") result: 
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .invoke("window.checkAsFocus") args: []
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .handle("window.checkAsFocus") result: 
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .invoke("document.getSnapWithValidation") args: [null]
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .handle("document.getSnapWithValidation") result: "{\"snap\":null,\"shouldReadFromDisk\":false}"
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .invoke("window.updateMenuForIsAlwaysOnTop") args: []
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .handle("window.updateMenuForIsAlwaysOnTop") result: 
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .invoke("menu.updateCustomZoom") args: []
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .handle("menu.updateCustomZoom") result: 
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .invoke("window.checkAsFocus") args: []
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .handle("window.checkAsFocus") result: 
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .invoke("setting.getDownloadingDicts") args: []
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .handle("setting.getDownloadingDicts") result: "[]"
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .invoke("setting.getUserDictionaryPath") args: []
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .handle("setting.getUserDictionaryPath") result: "C:\\Users\\joest\\AppData\\Roaming\\Typora\\typora-dictionaries"
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .invoke("document.hasDuplicateName") args: ["README.md"]
+------------------
+[10/12/2026, 11:06:54 AM] [Log] [IPC] .handle("document.hasDuplicateName") result: false
+------------------
+[10/12/2026, 11:06:55 AM] [Log] [IPC] .invoke("document.setLastSync") args: ["2026-10-12T00:36:54.906Z"]
+------------------
+[10/12/2026, 11:06:55 AM] [Log] [IPC] .handle("document.setLastSync") result: 
+------------------
+[10/12/2026, 11:06:55 AM] [Log] [IPC] .invoke("window.updateMenuForIsAlwaysOnTop") args: []
+------------------
+[10/12/2026, 11:06:55 AM] [Log] [IPC] .handle("window.updateMenuForIsAlwaysOnTop") result: 
+------------------
+[10/12/2026, 11:06:55 AM] [Log] [IPC] .invoke("menu.updateCustomZoom") args: []
+------------------
+[10/12/2026, 11:06:55 AM] [Log] [IPC] .handle("menu.updateCustomZoom") result: 
+------------------
+[10/12/2026, 11:06:55 AM] [Log] [IPC] .invoke("setting.getUserDict") args: []
+------------------
+[10/12/2026, 11:06:55 AM] [Log] [IPC] .handle("setting.getUserDict") result: "{}"
+------------------
+[10/12/2026, 11:06:55 AM] [Log] [IPC] .invoke("window.setTitle") args: ["README.md - Typora"]
+------------------
+[10/12/2026, 11:06:55 AM] [Log] [IPC] .handle("window.setTitle") result: 
+------------------
+[10/12/2026, 11:06:55 AM] [Log] [IPC] .invoke("window.setTitle") args: [null,false]
+------------------
+[10/12/2026, 11:06:55 AM] [Log] [IPC] .handle("window.setTitle") result: 
+------------------
+[10/12/2026, 11:06:55 AM] [Log] [IPC] .invoke("theme.setThemeSource") args: ["system"]
+------------------
+[10/12/2026, 11:06:55 AM] [Log] [IPC] .handle("theme.setThemeSource") result: 
+------------------
+[10/12/2026, 11:06:55 AM] [Log] [IPC] .invoke("setting.put") args: ["backgroundColor","#FFFFFF"]
+------------------
+[10/12/2026, 11:06:55 AM] [Log] [IPC] .handle("setting.put") result: 
+------------------
+[10/12/2026, 11:06:55 AM] [Log] [IPC] .invoke("setting.put") args: ["isDarkMode",false]
+------------------
+[10/12/2026, 11:06:55 AM] [Log] [IPC] .handle("setting.put") result: 
+------------------
+[10/12/2026, 11:06:55 AM] [Log] [IPC] .invoke("window.updateMenuForIsAlwaysOnTop") args: []
+------------------
+[10/12/2026, 11:06:55 AM] [Log] [IPC] .handle("window.updateMenuForIsAlwaysOnTop") result: 
+------------------
+[10/12/2026, 11:06:55 AM] [Log] [IPC] .invoke("menu.updateCustomZoom") args: []
+------------------
+[10/12/2026, 11:06:55 AM] [Log] [IPC] .handle("menu.updateCustomZoom") result: 
+------------------
+[10/12/2026, 11:06:55 AM] [Log] [IPC] .invoke("window.checkAsFocus") args: []
+------------------
+[10/12/2026, 11:06:55 AM] [Log] [IPC] .handle("window.checkAsFocus") result: 
+------------------
+[10/12/2026, 11:06:55 AM] [Log] [IPC] .invoke("setting.getKeyBinding") args: []
+------------------
+[10/12/2026, 11:06:55 AM] [Log] [IPC] .handle("setting.getKeyBinding") result: {"_useLowerCase":true}
+------------------
+[10/12/2026, 11:07:10 AM] [Log] [IPC] .invoke("window.setTitle") args: [null,true]
+------------------
+[10/12/2026, 11:07:10 AM] [Log] [IPC] .handle("window.setTitle") result: 
+------------------
+[10/12/2026, 11:08:50 AM] [Log] [IPC] .invoke("webContents.copy") args: []
+------------------
+[10/12/2026, 11:08:50 AM] [Log] [IPC] .handle("webContents.copy") result: 
+------------------
+[10/12/2026, 11:08:50 AM] [Log] [IPC] .invoke("webContents.copy") args: []
+------------------
+[10/12/2026, 11:08:50 AM] [Log] [IPC] .handle("webContents.copy") result: 
+------------------
+[10/12/2026, 11:09:01 AM] [Log] [IPC] .invoke("window.updateMenuForIsAlwaysOnTop") args: []
+------------------
+[10/12/2026, 11:09:01 AM] [Log] [IPC] .handle("window.updateMenuForIsAlwaysOnTop") result: 
+------------------
+[10/12/2026, 11:09:01 AM] [Log] [IPC] .invoke("menu.updateCustomZoom") args: []
+------------------
+[10/12/2026, 11:09:01 AM] [Log] [IPC] .handle("menu.updateCustomZoom") result: 
+------------------
